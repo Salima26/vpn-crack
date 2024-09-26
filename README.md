@@ -24,3 +24,8 @@ Extract: Unzip the downloaded file to a directory of your choice.
 Setup: Follow the instructions provided in the README file to configure the crack.
 
 Begin bypassing VPN restrictions effortlessly with VPN Crack! For more detailed information, visit our Wiki.
+>
+We hope you find VPN Crack useful. Remember, using cracked software comes with risks.
+>
+
+***Disclaimer: This software is provided for educational purposes only. Unauthorized use of cracked software is illegal and may result in legal consequences. By downloading and using VPN Crack, you agree to assume all responsibility for your actions.***
